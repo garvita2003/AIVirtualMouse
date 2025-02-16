@@ -1,14 +1,15 @@
 # AIVirtualMouse
 AI Virtual Mouse is a software that allows users to give inputs of a mouse to the system without using the actual mouse. The virtual mouse uses a web camera with the help of different image processing techniques. Using figures detection methods for instant Camera access and a user-friendly interface makes it more easily accessible. The system is used to implement a motion-tracking mouse, a physical mouse that saves time and also reduces effort. The hand movements of a user are mapped into mouse inputs. A web camera is set to take images continuously.
 
-1. DRAG AND DROP
-2. SELECT MULTIPLE ITEMS
-3. RIGHT CLICK
-4. DOUBLE CLICK
-5. VOLUME CONTROL
-6. MOVE CURSOR
-7. NEUTRAL
-8. SCROLLING
+1. NEUTRAL
+2. MOVE CURSOR
+3. LEFT CLICK
+4. RIGHT CLICK
+5. DOUBLE CLICK
+6. SCROLLING
+7. VOLUME CONTROL
+8. BRIGHTNESS CONTROL
+
 
 # Install the rquired packages / libraries :
 ```bash
@@ -22,4 +23,3 @@ python Gesture_Controller.py
 # Technology Used :
 1. Python
 2. OpenCV
-3. Screen-Brightness-Control
