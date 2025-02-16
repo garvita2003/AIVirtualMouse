@@ -1,20 +1,15 @@
-
-https://github.com/user-attachments/assets/133b6f70-ccd0-4162-9d93-e76adfb3978f
 # AIVirtualMouse
 AI Virtual Mouse is a software that allows users to give inputs of a mouse to the system without using the actual mouse. The virtual mouse uses a web camera with the help of different image processing techniques. Using figures detection methods for instant Camera access and a user-friendly interface makes it more easily accessible. The system is used to implement a motion-tracking mouse, a physical mouse that saves time and also reduces effort. The hand movements of a user are mapped into mouse inputs. A web camera is set to take images continuously.
 
-1. NEUTRAL
-   Uploading neutral.mp4…
-
-2. MOVE CURSOR
-   Uploading cursorMove.mp4…
-
-4. LEFT CLICK
-5. RIGHT CLICK
-6. DOUBLE CLICK
-7. SCROLLING
-8. VOLUME CONTROL
-9. BRIGHTNESS CONTROL
+1. [NEUTRAL](https://drive.google.com/file/d/183hUrvKsAhaTnAJ2w4n__lnf0qVTI_hV/view?usp=sharing)
+2. [MOVE CURSOR](https://drive.google.com/file/d/1XM79w4gidiw-Uv-MKzlOm4nRnnQDgE6O/view?usp=sharing)
+3. [LEFT CLICK](https://drive.google.com/file/d/1-Qrx2voGtENnumZ4goOrWh-PQtkp2Tsc/view?usp=sharing)
+4. [RIGHT CLICK](https://drive.google.com/file/d/1-BbzF3nyXRXRIIS9xwFH-IAFO4T3JThb/view?usp=sharing)
+5. [DOUBLE CLICK](https://drive.google.com/file/d/1iw7usiXcwVGMwH-e2ls_JIji5qGErESd/view?usp=sharing)
+6. [SCROLLING - LEFT AND RIGHT](https://drive.google.com/file/d/1EqLzjrYuIr4_9JAoagx2ag_lcYJT5555/view?usp=sharing)
+7. [SCROLLING - UP AND DOWN](https://drive.google.com/file/d/1FymXiydTJrQBZ9cqSUQ5NFonyCFucH_5/view?usp=sharing)
+8. [VOLUME CONTROL](https://drive.google.com/file/d/1TVa0ZZO2KCKlOPlvemfrA6Wk27UGl2FA/view?usp=sharing)
+9. [BRIGHTNESS CONTROL](https://drive.google.com/file/d/1-XzMfsMH3Guc80e4D599BXQX6IXUZ4XU/view?usp=sharing)
 
 
 # Install the rquired packages / libraries :
